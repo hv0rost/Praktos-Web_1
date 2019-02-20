@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(248, 239, 225);
+    line-height: 11px;
+}
+
+.snoska{
+    color: green;
+    font-style: italic;
+    font-size: 13px;
+    float: right;
+    text-align: right;
+}
+
+section{
+width: 425px;
+margin: auto;
+}
+
+time{
+    color: rgb(255, 68, 0);
+    font-weight: bold;
+    font-style: normal;
+}
+
+img{
+    display: block;
+    margin: 15px auto 25px;
+    border: 5px solid rgb(241, 190, 170);
+    border-radius: 5px;
+}
+
+.title{
+    display: inline-block;
+}
+
+
